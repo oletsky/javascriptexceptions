@@ -1,0 +1,2 @@
+# javascriptexceptions
+Exceptions in JavaScript
